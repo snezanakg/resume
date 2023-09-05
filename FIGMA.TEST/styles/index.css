@@ -1,6 +1,15 @@
-h1 {
-    border: 2px dashed color red
-    width:50%;
-    font-size;3rem;
-    padding:0,5em;
+.logo {color: #0A1B32;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48%; /* 14.4px */
+    letter-spacing: -0.6px;
+
+    letter-spacing: -0,02em
+    
+    
+} .logo-dot{
+    color:darkblue
+
 }
