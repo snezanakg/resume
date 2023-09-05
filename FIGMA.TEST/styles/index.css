@@ -1,3 +1,52 @@
-.logo {
+.logo {color: #0A1B32;
+    font-family: Montserrat;
+    font-size: 128px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 37.5% */
+    letter-spacing: -2.56px;
+    margin-top: 371px
+    margin-left; 418px 
+
+}
+    .logo-dot {
+        color: #A3DC00
+    
+}
+
+.main-title {color: #1B0A42;
+    max-width: 1432px;
+    height: 358px;
+    width: 100%;
+    margine: left 453px;
+    margine: top 1159px;
+    font-family: Inter;
+    font-size: 128px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.256px;
+
+}
+
+.main-info {
+    max-width: 1094px;
+    height: 500px;
+    max-width:100%;
+    margin: top 1544px;
+    margin: left 395px;
+    color: #9A9A9A;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 77px; /* 120.313% */
+
+}
+.main-btn {
+    width: 354px;
+    height: 94px;
+    border-radius: 6px;
+    background: #A3DC00;
 
 }
