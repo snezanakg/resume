@@ -13,13 +13,18 @@
         color: #A3DC00
     
 }
+section { 
+    display: inline-block;
+
+}
+
 
 .main-title {color: #1B0A42;
     max-width: 1432px;
     height: 358px;
     width: 100%;
-    margine: left 453px;
-    margine: top 1159px;
+    margin: left 453px;
+    margin: top 1159px;
     font-family: Inter;
     font-size: 128px;
     font-style: normal;
